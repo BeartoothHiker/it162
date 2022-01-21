@@ -30,7 +30,7 @@
         
 <!-- START LEFT COL -->
 <section>
- <h2 class="pageID">AIA</h2>
+ <h2 class="pageID">Flowchart</h2>
 </section>
 <!-- END LEFT COL -->
 
