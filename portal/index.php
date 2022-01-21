@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title>JRo's IT162 Portal</title>
 <meta name="viewport" content="width=device-width" />
