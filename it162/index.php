@@ -34,8 +34,8 @@
  <h2 class="pageID">Welcome</h2>
 
 <!-- MAKE SURE YOU GET YOUR (3) IMAGES SAVED INTO YOUR IMAGES FOLDER -->
- <img src="images/beartooth-boys-meadow.jpg" class="desktop" alt="hikers in meadow" />
- <img src="images/doodle-floor.jpg" class="phone" alt="sleeping puppy" />
+ <img class="desktop" src="images/beartooth-boys-meadow.jpg" alt="hikers in meadow" />
+ <img class="phone" src="images/doodle-floor.jpg" alt="sleeping puppy" />
  <p>Hello and welcome to my IT 162 workspace.  My name is Jeremy and am studying Web and Mobile Devleopment at Seattle Central. I have been programming in Windows and embedded systems for awhile, and I am excited to learn how to build modern websites. The programming and scripting is pretty natural for me, but I find the graphic design and aesthetic to be challenging. My longer term goal is a Solutions Architect role.</p>
  <p>My wife and I have two teenage boys, one who is attending Seattle Central. We also have a goofy goldendoodle and a couple of naughty kitties (one who is addicted to popcorn and tortilla chips).</p>
  <p>Outside of work, I like to get outdoors with my boys. We have been on a number of backpacking trips in Montana, Wyoming and Washignton .  More often, however, we enjoy playing cards and board games which I usually lose.<p>
@@ -46,7 +46,7 @@
 <aside>
  <img src="images/beartooth-pumping-water.jpg" class="tablet" alt="man near mountain stream" />
 </aside>
-<!-- END RIGHT COL -->
+<!-- END RIGHT COL -->  
  
 <!-- START Footer -->
   <footer>

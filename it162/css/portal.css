@@ -54,19 +54,19 @@ footer {
 	}
 
   section {
-		width:65%;
+		width:100%;
 		float:left;
+    margin-left: 1em;
 	}
 	
   aside {	
-		width:34%;
+		width:0%;
 		float:right;
 	}
 			
   img.desktop {
-    float:left;
+    float: right;
     width:50%;
-    display:inline-block;
   }
     
   img.tablet, img.phone {
@@ -86,12 +86,12 @@ footer {
 	
 	section {
 		width:60%;
-		float:left;
+		float:right;
 	}
 	
 	aside {	
 		width:39%;
-		float:right;
+		float:left;
 	}
 	
     img.tablet {
