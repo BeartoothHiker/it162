@@ -3,7 +3,8 @@
       <p><small>&copy; 2021-<?=date("Y")?> by 
           <a href="contact.php">Jeremy Robinson</a>, All Rights Reserved ~ 
           <a id="html-checker" href="#">Check HTML</a> ~ 
-          <a id="css-checker" href="#">Check CSS</a></small>
+          <a id="css-checker" href="#">Check CSS</a> ~ 
+				  <a href="https://github.com/BeartoothHiker/it162/tree/main/it162">IT162 GitHub</a></small>
      </p>
     </footer>
 <!-- END Footer --> 
